@@ -1,0 +1,1 @@
+print("\nPython Programlama:\n\n\t-Kolay\n\t-Eğlenceli\n\t-Güçlü\n")
