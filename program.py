@@ -1,3 +1,6 @@
-print('Ahsen\'in bilgisayarı\n')
-print("Merhaba\n\nPython!\n")
-print("Adım: Ahsen Hira")
+# burada ekrana merhaba Python yazılır.
+print("Merhaba Python!")
+
+"""
+Bu, çok satırlı bir yorumdur.
+"""
