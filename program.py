@@ -1,6 +1,3 @@
-# burada ekrana merhaba Python yazılır.
-print("Merhaba Python!")
+print("Merhaba " + input("Lütfen adınızı giriniz: ") +  "\tHoşgeldiniz!")
 
-"""
-Bu, çok satırlı bir yorumdur.
-"""
+      
