@@ -1,3 +1,5 @@
-print("Merhaba " + input("Lütfen adınızı giriniz: ") +  "\tHoşgeldiniz!")
-
+#Değişkenler - Variables 
+isim = input("Lütfen adınızı giriniz: ")
+print("Merhaba " + isim  +  "\tHoşgeldiniz!")
+print("Sayın " + isim + " Aşağıdaki seçeneklerden birini seçiniz: ")
       
