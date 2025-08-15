@@ -21,3 +21,12 @@ flag = True
 print(type(flag))
 print(10<20)
 print(10<3)
+
+#Python'da değişken tipleri dinamik olarak belirlenir.
+x = 10 
+print(type(x))
+
+x = "Selime"
+print(type(x))
+
+print(x)
