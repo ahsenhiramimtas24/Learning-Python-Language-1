@@ -44,3 +44,4 @@ sayi1 = int(sayi1) # string olan sayıyı integer'a çeviriyoruz.
 sayi2 = int(sayi2)
 toplam = sayi1 + sayi2
 print( "Toplam: ", toplam)
+# int'i yazdığımız gibi float da yapabiliriz
