@@ -7,4 +7,4 @@ ortalama = toplam / 3
 
 sonuc = round(ortalama,1)
 
-print(f"Not ortalamanız: {sonuc}")
+print(f"Not ortalamanız: {sonuc} olarak hesaplandı.")
