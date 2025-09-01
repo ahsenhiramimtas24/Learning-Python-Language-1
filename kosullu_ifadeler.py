@@ -9,13 +9,11 @@ else:
     print("Ateş değeriniz normal.")
     print("Geçmiş olsun.")
 
+sayi = 8
 
-    sayi = 8
 if  sayi > 0:
     print("Sayı pozitiftir.")
-    
 elif sayi < 0:
     print("Sayı negatiftir.")
-
 else: 
     print("Sayı sıfırdır.")
