@@ -12,3 +12,4 @@ for sayi in range(baslangic, bitis + 1):
         toplam += sayi
 
 print( "Tek sayıların toplamı:", toplam)
+
