@@ -41,4 +41,24 @@ for sayi in range(1,101):
 print("Toplam: ", toplam)
 
 print("\nbye...")
-    
+
+
+    # for döngü
+    # break ve continue kullanımı
+#break
+
+for x in range(1,11):
+    if x == 5:
+        print("Döngüden çıkılıyor...")
+        break # döngüyü sonlandırır
+    print(x)
+
+#continue
+
+for sayi in range(1,8):
+    if sayi == 3:
+        continue # o adımı atlar
+    print(sayi)
+
+
+
